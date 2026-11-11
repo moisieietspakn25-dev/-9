@@ -1,6 +1,25 @@
+<<<<<<< HEAD
 
 bin/
 obj/
 .vs/
 *.user
 *.suo
+=======
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/Assets/Screenshots/
+*.csproj
+*.sln
+*.pidb
+.vs/
+.idea/
+.vscode/
+__pycache__/
+>>>>>>> f69e650443fff7676449703aeacc270f16e82752
